@@ -1,0 +1,21 @@
+{
+  "name": "china-address-search",
+  "version": "1.0.0",
+  "description": "中国地址模糊搜索算法",
+  "main": "index.js",
+  "module": "index.mjs",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DarrenDanielDay/china-address-search"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  },
+  "scripts": {
+    "build": "cp ./index.ts ./index.mts && tsc && tsc -p ./tsconfig.cjs.json"
+  },
+  "dependencies": {
+    "taio": "^0.5.0"
+  }
+}
