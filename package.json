@@ -9,6 +9,15 @@
     "type": "git",
     "url": "https://github.com/DarrenDanielDay/china-address-search"
   },
+  "keywords": [
+    "china-address",
+    "china address",
+    "address-search",
+    "address search",
+    "中国地址",
+    "中国行政区划",
+    "中华人民共和国行政区划"
+  ],
   "devDependencies": {
     "typescript": "^4.6.2"
   },
