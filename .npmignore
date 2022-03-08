@@ -3,3 +3,4 @@
 .gitignore
 tsconfig.cjs.json
 yarn.lock
+demo
