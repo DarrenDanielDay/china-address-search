@@ -1,0 +1,12 @@
+{
+  "imports": {
+    "@mui/material/Autocomplete": "./@mui/material/Autocomplete.js",
+    "@mui/material/TextField": "./@mui/material/TextField.js",
+    "antd/dist/antd.css": "./antd/dist/antd.css",
+    "antd/es/auto-complete": "./antd/es/auto-complete.js",
+    "antd/es/input": "./antd/es/input.js",
+    "china-address-search": "./china-address-search.js",
+    "react": "./react.js",
+    "react-dom": "./react-dom.js"
+  }
+}

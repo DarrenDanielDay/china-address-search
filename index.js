@@ -1,0 +1,1 @@
+import*as t from"./_snowpack/env.js";import.meta.env=t;import e from"./_snowpack/pkg/react.js";import o from"./_snowpack/pkg/react-dom.js";import{App as r}from"./app.js";import"./index.css.proxy.js";o.render(e.createElement(e.StrictMode,null,e.createElement(r,null)),document.getElementById("root"));
